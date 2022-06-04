@@ -68,7 +68,7 @@ preshed==3.0.6
 protobuf==3.19.1
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-PyAudio @ file:///C:/Users/dipes/pipwin/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
+PyAudio @ file:///C:/Users/dipes/pipwin/PPyAudio‑0.2.11‑cp311‑cp311‑win32.whl
 pycparser==2.21
 pydantic==1.8.2
 pyjokes==0.6.0
